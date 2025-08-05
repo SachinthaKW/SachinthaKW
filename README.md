@@ -11,11 +11,16 @@ I build data-driven solutions that empower leaders to make better, faster decisi
 <img width="189" height="28" alt="image" src="https://github.com/user-attachments/assets/d7d7c1f9-b8cd-40d7-a58e-f4aea5e54a4f" />
 <img width="67" height="28" alt="image" src="https://github.com/user-attachments/assets/8ea543d9-03b7-4ba1-aa1e-562c04b28379" />
 
-
-
-
 -----
+Check out my journey here
 
+<div id="badges">
+  <a href="https://medium.com/@BI.Diaries">
+    <img width="99" height="28" alt="image" src="https://github.com/user-attachments/assets/887aad7f-412c-45dc-8557-646cc9473f2a" />
+  </a>
+</div>
+
+----
 📫 Let's connect
 <div id="badges">
   <a href="https://www.linkedin.com/in/sachintha-kahawewithana/">
