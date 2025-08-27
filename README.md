@@ -3,7 +3,9 @@
 I build data-driven solutions that empower leaders to make better, faster decisions. Explore my work here to see how I turn data into actionable insights.
 
 🔭 Currently working as a Business Intelligence Specialist, Auckland, New Zealand
+
 🎯 Helped 2 startups grow by providing Data Strategy consulting
+
 ✈️ Travelled to 6 countries
 
 ------
